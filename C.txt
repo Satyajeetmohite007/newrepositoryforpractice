@@ -1,9 +1,13 @@
 class C{
 	public static void main(String[] args){
- 		System.out.println("C class main");
+ 		System.out.println("C main");
 	}
 public static void main(String[] args){
  		System.out.println("C class main");
 	}
 
+ }
+void m1(){
+	System.out.println("C m1");
+}
  }
